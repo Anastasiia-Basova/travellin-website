@@ -1,0 +1,91 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.big-heading {
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+h1, h2, h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    font-size: 3rem;
+    color: black;
+}
+
+h5 {
+    font-size: 3rem;
+    color: white;
+
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand {
+    font-family: "Ubuntu", serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.container-fluid{
+    padding: 3% 10%;
+}
+
+#title {
+    text-align: center;
+    color: #FEFAE0;
+    padding: 0 0 7rem;
+    background-image: url("images/beach-maldives.png");
+  }
+
+.btn-light {
+    margin: 0 20px 0;
+}
+
+
+#menu {
+    text-align: left;
+    padding: 30px 50px 50px;
+}
+.card-group {
+    padding-top: 20px;
+}
+#countries {
+    text-align: left;
+    padding: 30px 50px 50px;
+}
+
+#carouselExampleDark {
+    padding: 30px 50px 50px;
+    width: 1100px;
+    height: 780px;
+    left: 100px;
+}
+
+.d-block {
+    width: 1024px;
+    height: 683px;
+}
+
+.carousel-caption {
+    padding-top: 50px;
+}
